@@ -2,10 +2,10 @@
 ## Plan de carrière
 
 ### Présentation
-Parlez de vous. 
+Je suis une personne très timide et réservé. J'aime rester dans mes affaires, mais j'aime explorer de nouvelles choses. J'aime beaucoup la création et le jheu vidéo.
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+J'aime la création numérique, comme l'animation (2D et 3D), 
 
 ### Emplois qui vous intéressent
 Nommez deux emplois.
