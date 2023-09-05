@@ -17,4 +17,4 @@ J'en ai pas vraiment, mais j'aimerais bien travailler chez Ubisoft.
 Sois à l'université ou avec un travail dans une compagnie.
 
 ### Projets
-Écrire un livre et sénariser un jeu-vidéo ou même en développer uné
+Écrire un livre et sénariser un jeu-vidéo ou même en développer un.
