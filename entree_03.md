@@ -5,16 +5,16 @@
 Je suis une personne très timide et réservé. J'aime rester dans mes affaires, mais j'aime explorer de nouvelles choses. J'aime beaucoup la création et le jheu vidéo.
 
 ### Intérêts dans le domaine
-J'aime la création numérique, comme l'animation (2D et 3D), 
+J'aime la création numérique, comme l'animation (2D et 3D), la modélisation 3D et l'illustration numérique. 
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Animateur ou modelisateur 3D
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+J'en ai pas vraiment, mais j'aimerais bien travailler chez Ubisoft.
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Sois à l'université ou avec un travail dans une compagnie.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Écrire un livre et sénariser un jeu-vidéo ou même en développer uné
