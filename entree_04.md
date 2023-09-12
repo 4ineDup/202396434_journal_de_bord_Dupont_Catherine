@@ -9,12 +9,12 @@ Modélisateur 3D, animateur 3D, animateur 2D, illustrateur, développeur de site
 Ma tâche serait de créer des animations avec des models 3D. Ils sont, pour la plupart, dans le jeux vidéo et les films. Les qualitées seraient d'être, encore, très patient. Je le trouve intéressant,car, comme pour la modélisation, j'en fais un peux chez moi et peu intéressant à cause du temps que ça prend pour créer une animation dans un certain environnement et avec plusieurs models.
 
 ### Emploi 3 - Animation 2D
-Ma tâche serait de créer des animations 2D, en dessin. La plupart sont dans le monde de la télévison et des films. Comme talent, il faudrait avoir un bon talent en dessin et être capable des dessiner plusieurs fois le même model. Je le toruve intéressant, car j'aime beaucoup le dessin et j'aime voir des dessins animés pour former une histoire et je le trouve moin intéressant à cause du temps que ça prend pour faire les bases, le line-art, la colorisation et le shading/highlight.
+Ma tâche serait de créer des animations 2D, en dessin. La plupart sont dans le monde de la télévison et des films. Comme talent, il faudrait avoir un bon talent en dessin et être capable des dessiner plusieurs fois le même model. Je le trouve intéressant, car j'aime beaucoup le dessin et j'aime voir des dessins animés pour former une histoire et je le trouve moin intéressant à cause du temps que ça prend pour faire les bases, le line-art, la colorisation et le shading/highlight.
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Emploi 4 - Illustration
+Ma tâche serait de créer des dessins d'êtres, objets ou paysages. Ils sont un peu partout (Maison d'édition, télévison, jeux vidéo, travailleur autonome, etc...). Le talent est d'être bon en dessin et savoir utiliser des logiciels de dessin numérique. J'y suis intéressée, car j'adore le dessin, mais ce n'est pas un métier très bien payé.
 
-### Emploi 5 - Identification
-4 à 5 lignes
+### Emploi 5 - Développer des sites webs
+Mon but serait de créer des sites webs à mes clients. Certain travaillent dans des compagnies privées et d'autre son autonome. Il faut avoir beaucoup de logique et de patience. Je suis intéresser, car j'aime créer et éditer des sites pour des personnes, mais je ne suis pas encore très bonne en codage.
 
 
