@@ -5,7 +5,7 @@ L’objectif de cet exercice est de développer une opinion sur la conférence q
 
 ### Description (Entre 4 et 6 lignes)
 Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? Est-ce que la conférence vous a été utile?
-Je l'ai trouvé intéressante. J'ai aimé entendre le parcour de la présentatrice et tout ce qu'elle a créer au fur et à mesure de son expérience. Elle m'a été utile pour me motiver un petit peu plus dans la technique multi-média.
+Je l'ai trouvé intéressante. J'ai aimé entendre le parcour de la présentatrice et tout ce qu'elle a créer au fur et à mesure de son expérience. Elle m'a été utile pour me motiver un petit peu plus dans ma technique multi-média.
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
